@@ -7,7 +7,7 @@
 A physics-based Minecraft Java shader with signature golden-hour lighting,  
 PCSS soft shadows, volumetric clouds, and cinematic post-processing.
 
-[![Release](https://img.shields.io/github/v/release/yourusername/GoldenSpring?style=flat-square&color=EF9F27&labelColor=1a1008)](https://github.com/yourusername/GoldenSpring/releases)
+[![Release](https://img.shields.io/github/v/release/Kingcozmosis/GoldenSpring?style=flat-square&color=EF9F27&labelColor=1a1008)](https://github.com/Kingcozmosis/GoldenSpring/releases)
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=flat-square&labelColor=1a1008)](LICENSE)
 [![Iris](https://img.shields.io/badge/requires-Iris%20Shaders-blue?style=flat-square&labelColor=1a1008)](https://irisshaders.dev)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.16--1.21-green?style=flat-square&labelColor=1a1008)](https://minecraft.net)
